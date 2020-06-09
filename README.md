@@ -2,7 +2,7 @@
 Proposing a new way to rank words to study in a foreign language by taking profit of use frequency and context-usage simultaneously
 
 ## Idea
-I realized I was always facing the same problem when learning the vocabulary of a new language:
+I've always had the same problem  when learning the vocabulary of a new language:
 
 **How to choose the most optimal words to study?**
 
