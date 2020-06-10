@@ -43,7 +43,7 @@ Then, we build two matrices: a word frequency matrix and an adjacency one. Thank
 In that way, we obtain the figure presented above, and we are able to create the vocabulary list by using the constructed optimal partition of the graph.
 
 ### Code structure
-From scratch, scripts have to been used in the following order:
+From scratch, scripts have to be used in the following order:
 
  1. *tweepyManager.py*
  2. *cleaner.py*
@@ -51,3 +51,9 @@ From scratch, scripts have to been used in the following order:
  4. *word_adjacency_matrix_builder.py*
  5. *plotter.py*
  6. *vocabulary_lists_builder.py*
+ 
+ 
+ 
+<br/><br/>
+
+*Author:* Pierre Crucifix
